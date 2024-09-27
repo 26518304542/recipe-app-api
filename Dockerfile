@@ -27,4 +27,5 @@ ENV PATH="/py/bin:$PATH"
 
 USER django-user
 
+RUN pip install flake8
 
