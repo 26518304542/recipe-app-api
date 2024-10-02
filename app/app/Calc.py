@@ -1,6 +1,8 @@
 """
-    Calc
+Calc
 """
 
-def add(x,y):
-    return x+y    
+
+def add(x, y):  # Added a space after the comma
+    return x + y  # Added a space around the operator
+    
